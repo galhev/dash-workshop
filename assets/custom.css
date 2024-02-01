@@ -1,0 +1,13 @@
+.drop_style{
+  border-radius:20px;
+  background-color: #96E9C6;
+  color: #D63484;
+  padding: 12px;
+  width: 250px;
+  border: none;
+  font-size: 20px;
+  box-shadow: 0 5px 25px rgba(0, 0, 0, 0.2);
+  -webkit-appearance: button;
+  appearance: button;
+  outline: none;
+}
